@@ -12,7 +12,7 @@
 A wireless, MaxMix-style per-app volume mixer for Windows. An ESP32-C3 Super Mini with a
 0.96" OLED and a single rotary knob talks to a small Python app over Bluetooth Low Energy,
 so you can control master volume and individual app volumes (Spotify, Discord, games...)
-with a physical knob. The OLED uses a cyberpunk terminal look.
+with a physical knob.
 
 Inspired by the open-source MaxMix project.
 This is a from-scratch rewrite for ESP32 + BLE, not a fork.
