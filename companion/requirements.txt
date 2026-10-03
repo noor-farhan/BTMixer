@@ -1,0 +1,4 @@
+bleak
+pycaw
+comtypes
+psutil
