@@ -1,6 +1,6 @@
 # BTMixer
 
-<img width="600" height="400" alt="1" src="https://github.com/user-attachments/assets/c5f47489-fcd8-4342-935c-ae77362d6c7a" />
+<img width="300" height="200" alt="1" src="https://github.com/user-attachments/assets/c5f47489-fcd8-4342-935c-ae77362d6c7a" />
 <img width="3608" height="1976" alt="2" src="https://github.com/user-attachments/assets/16a663df-c28d-4076-a888-d0c6da7812d4" />
 <img width="3600" height="2032" alt="3" src="https://github.com/user-attachments/assets/30cfb564-e106-419f-9d73-1ce1f5a5384e" />
 <img width="3796" height="2080" alt="4" src="https://github.com/user-attachments/assets/f048c903-5158-484f-9634-a155ec565d04" />
